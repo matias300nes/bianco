@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/bianco/static/js/main.ad0bdd0e.chunk.js",
+    "main.js.map": "/bianco/static/js/main.ad0bdd0e.chunk.js.map",
+    "runtime-main.js": "/bianco/static/js/runtime-main.401325eb.js",
+    "runtime-main.js.map": "/bianco/static/js/runtime-main.401325eb.js.map",
+    "static/js/2.b079d411.chunk.js": "/bianco/static/js/2.b079d411.chunk.js",
+    "static/js/2.b079d411.chunk.js.map": "/bianco/static/js/2.b079d411.chunk.js.map",
+    "index.html": "/bianco/index.html",
+    "static/js/2.b079d411.chunk.js.LICENSE.txt": "/bianco/static/js/2.b079d411.chunk.js.LICENSE.txt",
+    "static/media/bianco-logo.58e607c6.svg": "/bianco/static/media/bianco-logo.58e607c6.svg",
+    "static/media/bianco-name.50250009.svg": "/bianco/static/media/bianco-name.50250009.svg",
+    "static/media/bianco-worker.947a8c01.png": "/bianco/static/media/bianco-worker.947a8c01.png",
+    "static/media/clients.4554c3bf.svg": "/bianco/static/media/clients.4554c3bf.svg",
+    "static/media/email.bb28c790.svg": "/bianco/static/media/email.bb28c790.svg",
+    "static/media/facebook.a70d0074.svg": "/bianco/static/media/facebook.a70d0074.svg",
+    "static/media/herobianco.fd25727a.jpg": "/bianco/static/media/herobianco.fd25727a.jpg",
+    "static/media/home-bianco-squares.f376c7de.png": "/bianco/static/media/home-bianco-squares.f376c7de.png",
+    "static/media/linkedin.dda108cf.svg": "/bianco/static/media/linkedin.dda108cf.svg",
+    "static/media/location.22aa03b9.svg": "/bianco/static/media/location.22aa03b9.svg",
+    "static/media/phone.e79eccb5.svg": "/bianco/static/media/phone.e79eccb5.svg",
+    "static/media/politics-decoration.4b8fd34c.svg": "/bianco/static/media/politics-decoration.4b8fd34c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.401325eb.js",
+    "static/js/2.b079d411.chunk.js",
+    "static/js/main.ad0bdd0e.chunk.js"
+  ]
+}
